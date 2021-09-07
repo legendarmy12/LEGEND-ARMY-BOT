@@ -1,2 +1,2 @@
-# DEPLOY ULTRA X
-# [ULTRA X](https://github.com/legendarmy12/LEGEND-ARMY-BOT)
+# DEPLOY LEGEND ARMY BOT
+# [LEGEND ARMY](https://github.com/legendarmy12/LEGEND-ARMY-BOT)
